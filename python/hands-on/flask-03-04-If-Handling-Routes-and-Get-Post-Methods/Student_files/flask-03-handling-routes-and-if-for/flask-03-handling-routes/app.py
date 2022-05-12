@@ -1,5 +1,5 @@
 #Import Flask modules
-from flask import Flask, redirect, url_for, render_template
+from flask import Flask, redirect, render_template, url_for
 
 #Create an object named app 
 app = Flask(__name__)

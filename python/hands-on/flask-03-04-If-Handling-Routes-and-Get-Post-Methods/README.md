@@ -114,10 +114,8 @@ When sending request, the client can send data with using different http methods
 
 # Create an object named app 
 
-
 # Create a function named head which shows the massage as "This is my first conditions experience" in `index.html` 
 # and assign to the route of ('/')
-
 
 # Create a function named header which prints numbers elements of list one by one in `index.html` 
 # and assign to the route of ('/')
@@ -225,7 +223,6 @@ When sending request, the client can send data with using different http methods
 # Write a function named `greet` which uses template file named `greet.html` given under 
 # `templates` folder. it takes parameters from query string on URL, assign that parameter 
 # to the 'user' variable and sent that user name into the html file. If it doesn't have any parameter, warning massage is raised
-
 
 
 # Write a function named `greet` which uses template file named `greet.html` given under `templates` folder
